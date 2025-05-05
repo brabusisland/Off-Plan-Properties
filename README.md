@@ -7,7 +7,7 @@ Inspired by Brabus design concept The interiors are a blend of vibrant colors an
 
 This waterside location is ideal for those who are looking to build an elegant home in a tranquil setting, but without being far from city. The combination of stunning views of the ocean as well as luxurious features and flexible payment plans make this project an excellent option for both investors and buyers alike.
 
-[## <span style="color: green;">Brabus Location</span>](https://img.shields.io/badge/brabus-location-brightgreen?style=for-the-badge&labelColor=1E90FF&color=1E90FF)
+<h2 style="color: #1E90FF;">Brabus Location</h2>
 
 Brabus is situated in a quiet location located on Al Raha Island, close to numerous important spots located in Abu Dhabi. Although it provides a tranquil living space near the water and the beach, it's minutes away to Yas Island, Al Raha Beach and Abu Dhabi's business centres. Professionals and families are likely to find it ideal because of its proximity to shopping centers, schools and the airport.
 
