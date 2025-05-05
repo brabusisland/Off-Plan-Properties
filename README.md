@@ -1,5 +1,5 @@
 # Off-Plan-Properties
-Brabus developed by Reportage Properties is a luxury residential project at Al Raha Island in Abu Dhabi which is also called The Hope Island. The luxurious development comprises four mid-rise buildings that provide 352 residences with unobstructed ocean views as well as private access to the beach. Each unit is customized to provide peace and tranquility and maintain a high standard of modern and high-quality design.
+<a href="https://keltandcorealty.com">Brabus developed by Reportage Properties</a> is a luxury residential project at Al Raha Island in Abu Dhabi which is also called The Hope Island. The luxurious development comprises four mid-rise buildings that provide 352 residences with unobstructed ocean views as well as private access to the beach. Each unit is customized to provide peace and tranquility and maintain a high standard of modern and high-quality design.
 
 Inspired by Brabus design concept The interiors are a blend of vibrant colors and modern home technology. The apartments are furnished and feature fitted kitchen appliances. Buyers can also choose to enhance their living spaces with the Brabus brand, which creates an exclusive and fashionable living space.
 
